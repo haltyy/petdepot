@@ -4,7 +4,7 @@ let products = [
       "title": "Cat Food, 25lb bag",
       "description": "A 25 pound bag of <em>irresistible</em>, organic goodness for your cat.",
       "price": 20.00,
-      "image": "images/image3.jpg",
+      "image": "images/image3.jpeg",
       "availableInventory": 10,
       "rating": 2
     },
@@ -13,7 +13,7 @@ let products = [
       "title": "Yarn",
       "description": "Yarn your cat can play with for a very <strong>long</strong> time!",
       "price": 2.99,
-      "image": "images/image4.jpg",
+      "image": "images/image4.jpeg",
       "availableInventory": 7,
       "rating": 3
     },
@@ -22,7 +22,7 @@ let products = [
       "title": "Kitty Litter",
       "description": "Premium kitty litter for your cat.",
       "price": 11.00,
-      "image": "images/img.jpg",
+      "image": "images/img.jpeg",
       "availableInventory": 9,
       "rating": 4
     },
@@ -31,7 +31,7 @@ let products = [
       "title": "Cat House",
       "description": "A place for your cat to play!",
       "price": 7.99,
-      "image": "images/img.jpg",
+      "image": "images/img.jpeg",
       "availableInventory": 11,
       "rating": 5
     },
@@ -40,7 +40,7 @@ let products = [
       "title": "Laser Pointer",
       "description": "Drive your cat crazy with this <em>amazing</em> product.",
       "price": 49.99,
-      "image": "images/img.jpg",
+      "image": "images/img.jpeg",
       "availableInventory": 25,
       "rating": 4
     }
